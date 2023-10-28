@@ -1,11 +1,9 @@
 
 ### Hi there! 👋
 
-I'm Agustín, a passionate student based in Uruguay. 🇺🇾
+I'm Agustín, a passionate student based in Uruguay.
 
 - 🌱 I'm currently focused on learning Python.
-- 💻 I work with various programming languages, including Java and Python.
-- 🌐 I'm also well-versed in Shell script.
 
 ### 📫 Get in touch
 
